@@ -1,1 +1,2 @@
 # Geonet
+This project is called Geonet. It is a social media site built around a world map. It allows users to signup, login and view a world map. You can create posts and updates on your own profile or on other users. The purpose of this project was to build a social media site that could bring the world closer together. It features route guarding, cloud functions, Firestore rules and is built using webpack and the Vue cli. You can view this project and play about with it at https://geo-ninja-16f96.web.app/login 
